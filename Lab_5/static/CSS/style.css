@@ -1,0 +1,7 @@
+body {
+  background-image: linear-gradient(
+      rgba(30, 36, 61, 0.7),
+      rgba(30, 36, 61, 0.7)
+    ),
+    url(image/image_lab5.webp);
+}
